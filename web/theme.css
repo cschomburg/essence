@@ -1,3 +1,5 @@
+@import url('https://unpkg.com/pollen-css@4.2.0/pollen.css');
+
 :root {
     --nord0: #2e3440;
     --nord1: #3b4252;
